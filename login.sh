@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# @auth 后三排
+# @site https://housanpai.com
+
 # 登陆信息配置
 # 每个登陆信息为一个数组
 # 第一个登陆信息的变量名称必须是「LOGIN_USER_1」，多条登陆信息时需要是 1 的连续整数 

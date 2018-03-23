@@ -178,6 +178,9 @@ then
 
         # 对 ; 转义
         local mima=${mima//\;/\\;}
+	
+	# 对 [ 转义
+	local mima=${mima//\[/\\[}
 
     fi
 fi
